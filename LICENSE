@@ -1,0 +1,93 @@
+MIT License
+
+Copyright (c) 2026 Andrés Felipe Loaiza Granobles (SIGRA application code)
+Copyright (c) 2014-2019 British Columbia Institute of Technology (CodeIgniter)
+Copyright (c) 2019-present CodeIgniter Foundation (CodeIgniter)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+THIRD-PARTY NOTICES
+--------------------------------------------------------------------------------
+
+The MIT license above covers the SIGRA application code. SIGRA also uses,
+displays or links to third-party data, software and services. Their licenses,
+attribution requirements and terms are acknowledged here and must be preserved
+in any redistribution or public deployment.
+
+DATA SOURCES AND TILE SERVICES
+- OpenStreetMap / OpenStreetMap contributors
+  Data: © OpenStreetMap contributors, licensed under the Open Database License
+  (ODbL) 1.0. Tiles served by the OpenStreetMap Foundation are subject to the
+  OSMF Tile Usage Policy.
+  https://www.openstreetmap.org/copyright
+  https://opendatacommons.org/licenses/odbl/1-0/
+  https://operations.osmfoundation.org/policies/tiles/
+
+- Servicio Geológico Colombiano (SGC)
+  Public seismic data and official event products. Attribution to SGC and a
+  link to the original event are shown in the application. Use is subject to
+  SGC's published terms and to Colombian public-information rules.
+  https://www.sgc.gov.co/
+
+- U.S. Geological Survey (USGS)
+  Earthquake data from the USGS FDSN/GeoJSON feeds. U.S. Government works are
+  generally in the public domain; attribution is provided as a courtesy.
+  https://earthquake.usgs.gov/
+
+- OpenTopoMap
+  Map tiles based on OpenStreetMap data and SRTM, licensed under CC-BY-SA.
+  https://opentopomap.org/about
+
+- Esri / ArcGIS Online
+  World Imagery and World Dark Gray Canvas basemaps. Use is subject to the Esri
+  terms of use and attribution requirements.
+  https://www.esri.com/en-us/legal/terms/full-master-agreement
+
+- ipapi.co
+  Optional IP-based approximate geolocation fallback. Use is subject to the
+  ipapi.co terms and privacy policy.
+  https://ipapi.co/terms/
+
+SOFTWARE AND LIBRARIES
+- CodeIgniter 4 — MIT License, © British Columbia Institute of Technology and
+  the CodeIgniter Foundation.
+- Leaflet — BSD 2-Clause License, © Volodymyr Agafonkin and Leaflet
+  contributors.
+- Bootstrap — MIT License, © The Bootstrap Authors.
+- Google Fonts: DM Sans and Space Grotesk — SIL Open Font License 1.1. Font
+  delivery through fonts.googleapis.com/fonts.gstatic.com is subject to Google
+  APIs Terms of Service.
+- jsDelivr and unpkg — public CDNs used to serve Bootstrap and Leaflet assets;
+  use is subject to their respective terms.
+- AndroidX, Jetpack Compose, Kotlin, OkHttp and Retrofit — Apache License 2.0.
+- osmdroid — Apache License 2.0 (Android map component).
+- Firebase Cloud Messaging and Google Play services — Google APIs Terms of
+  Service and Android SDK terms. FCM is optional and only active when
+  google-services.json is present.
+- Laminas Escaper — BSD 3-Clause License.
+- PSR Log — MIT License.
+- PHP — PHP License 3.01.
+- MySQL / MariaDB — MySQL is GPLv2; MariaDB is GPLv2. They are used as external
+  database servers and are not distributed as part of this repository.
+
+Full license texts, links and service notes are available in
+THIRD_PARTY_NOTICES.md. If you deploy SIGRA publicly, keep the map attribution
+visible and do not remove the source notices from the interface.
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sigra_teal">#087F78</color>
+    <color name="sigra_teal_dark">#065F5A</color>
+    <color name="sigra_coral">#E55C4D</color>
+    <color name="sigra_ink">#172329</color>
+    <color name="sigra_paper">#F5F8F7</color>
+    <color name="ic_launcher_background">#087F78</color>
+</resources>
