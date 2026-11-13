@@ -1,0 +1,33 @@
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+google-services.json
+
+# Local tooling, session exports and credentials
+.kotlin/
+.agents/
+.codex/
+.aws/
+.signing/
+.env
+.env.*
+!*.example
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+*.apk
+*.aab
+__pycache__/
+*.pyc
+CONTINUAR_AQUI.md
+codex-session-*.md
+
+# Prepared release artifacts are uploaded on a temporary distribution branch only
+.release/
