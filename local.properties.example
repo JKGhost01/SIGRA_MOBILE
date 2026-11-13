@@ -1,0 +1,17 @@
+# Copia este archivo como local.properties y ajusta los valores.
+# sdk.dir debe apuntar al SDK de Android instalado por Android Studio.
+# En EndeavourOS/Linux, normalmente:
+# sdk.dir=/home/TU_USUARIO/Android/Sdk
+# En Windows suele ser:
+# sdk.dir=C\:\\Users\\TU_USUARIO\\AppData\\Local\\Android\\Sdk
+
+# URL del backend SIGRA (debe terminar en /).
+sigra.baseUrl=https://sigra.azyrondev.com/
+
+# Clave de aplicación de la red (X-SIGRA-KEY). En producción usa la misma
+# que APP_API_TOKEN o red.appKey en el .env del servidor.
+sigra.apiKey=CAMBIA_ESTA_CLAVE
+
+# Si APP_API_TOKEN y red.appKey son distintos, usa el primero para los sismos.
+# Por defecto sigra.eventsApiKey reutiliza sigra.apiKey.
+# sigra.eventsApiKey=TOKEN_DE_SISMOS

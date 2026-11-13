@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIGRA</string>
+    <string name="channel_monitoring">Monitoreo sísmico</string>
+    <string name="channel_alerts">Alertas sísmicas</string>
+    <string name="notification_monitoring_title">SIGRA está monitoreando</string>
+    <string name="notification_monitoring_text">Escuchando el acelerómetro para detectar ondas P.</string>
+</resources>
